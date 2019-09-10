@@ -1,0 +1,19 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.postHeader{
+    max-width: 300px;
+    font-size: 30px;
+}
+.postImage{
+    margin: 30px;
+    max-width: 300px;
+    max-height: 300px;
+}
+.postText{
+    max-width: 500px;
+}
